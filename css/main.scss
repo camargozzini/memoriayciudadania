@@ -1,0 +1,54 @@
+---
+---
+
+@import "variables";
+
+body {
+  font-family: $font-karla;
+  font-size: 14px;
+  color: $gray-one;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,h2,h3,h4 {
+  font-family: $font-nunito;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+header {
+  background-color: $blue;
+}
+
+.hero {
+  background-color: $blue;
+  padding: 11vw 0;
+}
+
+.text-white {
+  color: white;
+}
+
+
+// Search
+
+section#search {
+    margin-bottom: 30px;
+}
+
+#search label {
+  position: absolute;
+  left: 35px;
+  top: 19px;
+}
+
+#search #search-input, #search .hint {
+  padding: 16px 43px;
+}
