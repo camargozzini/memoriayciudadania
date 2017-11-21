@@ -52,3 +52,24 @@ section#search {
 #search #search-input, #search .hint {
   padding: 16px 43px;
 }
+
+// counter
+
+.number {
+  font-size: 75px;
+  font-family: $font-nunito;
+  color: white;
+  margin-right: 20px;
+}
+
+#counter .col-4:first-child {
+  background: $lightblue-one;
+}
+
+#counter .col-4:nth-child(2) {
+  background: $lightblue-two;
+}
+
+#counter .col-4:nth-child(3) {
+  background: $lightblue-three;
+}
