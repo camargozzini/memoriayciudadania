@@ -20,7 +20,7 @@ h1 {
 }
 
 h3 {
-  font-size: 40px;
+  font-size: 36px;
   color: $blue;
 }
 
@@ -28,6 +28,10 @@ h5 {
   font-family: $font-nunito;
   font-size: 18px;
   color: $gray-one;
+}
+
+p {
+    margin: 1em 0;
 }
 
 header {
@@ -92,4 +96,8 @@ section#search {
 
 .box {
   padding: 5vw;
+}
+
+.meta svg {
+    margin: 0px 3px -3px 0px;
 }

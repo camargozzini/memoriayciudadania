@@ -2,7 +2,7 @@
 layout: post
 title:  "El costo de la Corrupción: Los S/ 20 mil millones que Perú perdió en 7 casos de gran corrupción"
 date:   2017-09-06 18:27:47 -0300
-categories: history
+categories: [corrupción, perú]
 author: Gabriela Flores
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
