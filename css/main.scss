@@ -24,6 +24,10 @@ h3 {
   color: $blue;
 }
 
+h4 {
+  color: $blue;
+}
+
 h5 {
   font-family: $font-nunito;
   font-size: 18px;
@@ -32,6 +36,31 @@ h5 {
 
 p {
     margin: 1em 0;
+}
+
+a {
+  color: $lightblue-two;
+}
+
+// buttons
+
+.btn {
+  font-family: $font-nunito;
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  padding: .6rem 1.5rem;
+  border-radius: 2rem;
+}
+
+.btn-primary {
+    background-color: $lightblue-two;
+    border-color: $lightblue-two;
+    &:hover {
+      background-color: $lightblue-one;
+      border-color: $lightblue-one;
+    }
 }
 
 header {
@@ -100,4 +129,30 @@ section#search {
 
 .meta svg {
     margin: 0px 3px -3px 0px;
+}
+
+// post
+
+blockquote {
+  text-align: center;
+  font-size: 24px;
+  font-family: $font-nunito;
+  color: $blue;
+  &::before {
+    content: url(../img/blockquote.svg);
+  }
+}
+
+.link-repo {
+    margin: 12px 0px 15px 0px;
+}
+
+.link-repo svg {
+    margin: 0px 5px -5px 0px;
+}
+
+// quote
+
+#quote {
+    padding: 4rem;
 }
