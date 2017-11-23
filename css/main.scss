@@ -67,9 +67,17 @@ header {
   background-color: $blue;
 }
 
+// hero
+
 .hero {
   background-color: $blue;
   padding: 11vw 0;
+}
+
+.btn-search {
+    border-radius: 0rem 2rem 2rem 0rem;
+    padding: 20px 15px;
+    border: 1px solid $lightblue-two;
 }
 
 .text-white {
@@ -92,12 +100,13 @@ section#search {
 
 #search label {
   position: absolute;
-  left: 35px;
+  left: 20px;
   top: 19px;
 }
 
 #search #search-input, #search .hint {
   padding: 16px 43px;
+  border-radius: 0.25rem 0rem 0rem 0.25rem;
 }
 
 // counter
