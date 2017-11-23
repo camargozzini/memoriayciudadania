@@ -40,6 +40,9 @@ p {
 
 a {
   color: $lightblue-two;
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 // buttons
@@ -128,6 +131,15 @@ section#search {
 
 #counter .col-4:nth-child(3) {
   background: $lightblue-three;
+}
+
+#counter h5 {
+    margin-top: -20px;
+    padding-bottom: 15px;
+}
+
+#counter h5 svg {
+    margin-bottom: -5px;
 }
 
 // histories
