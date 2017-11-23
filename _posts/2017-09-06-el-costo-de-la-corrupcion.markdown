@@ -8,7 +8,7 @@ author: Gabriela Flores
 repo: https://japiqay.uwazi.io/
 ---
 
-##### La corrupción es un fenómeno que “a lo largo de 200 años de República” nos ha acompañado, como remarca el historiador Antonio Zapata. Y nuestra historia reciente lo evidencia.
+La corrupción es un fenómeno que “a lo largo de 200 años de República” nos ha acompañado, como remarca el historiador Antonio Zapata. Y nuestra historia reciente lo evidencia.
 
 Los 5 últimos presidentes peruanos están vinculados a graves casos de
 corrupción que le han costado al país no solo miles de soles sino el

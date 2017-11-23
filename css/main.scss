@@ -30,6 +30,7 @@ h3 {
 
 h4 {
   color: $blue;
+  margin: 2rem 0 1rem;
 }
 
 h5 {
@@ -153,6 +154,14 @@ section#search {
   padding: 5vw;
 }
 
+.box h4 {
+  margin: 0 0 1rem;
+}
+
+.box .meta {
+  margin-bottom: 1rem;
+}
+
 .histories .col-6:last-child {
   background: $gray-four;
 }
@@ -202,6 +211,12 @@ blockquote {
 // about
 
 #about {
+  padding: 3rem 0;
+}
+
+// faq
+
+#faq {
   padding: 3rem 0;
 }
 
