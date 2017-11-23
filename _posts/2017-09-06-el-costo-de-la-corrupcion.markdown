@@ -2,7 +2,8 @@
 layout: post
 title:  "El costo de la Corrupción: Los S/ 20 mil millones que Perú perdió en 7 casos de gran corrupción"
 date:   2017-09-06 18:27:47 -0300
-categories: [Memoria, Corrupción, Impacto, Reconstrucción, Presupuesto, Funcionarios, Congreso, Impunidad]
+category: post
+tags: [Memoria, Corrupción, Impacto, Reconstrucción, Presupuesto, Funcionarios, Congreso, Impunidad]
 author: Gabriela Flores
 repo: https://japiqay.uwazi.io/
 ---

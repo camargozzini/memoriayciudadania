@@ -22,8 +22,8 @@
           </div>
           {{ post.excerpt | truncatewords:38 }}
           <div class="tags">
-              {% for category in post.categories %}
-              #{{category}}
+              {% for tags in post.tags %}
+              #{{tags}}
               {% unless forloop.last %}&nbsp;{% endunless %}
               {% endfor %}
           </div>
