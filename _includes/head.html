@@ -18,13 +18,15 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css" />
   <script type="text/javascript">
   $(function(){
-    $('.boton_que_manda_las_cosas').click(function(e){
-      var url = "https://sidh.cejil.org/es/library/?q=(searchTerm:%1$s)"
+    $('.formulario_que_manda_las_cosas').submit(function(e){
+      var url = "https://japiqay.uwazi.io/es/?q=(order:asc,searchTerm:%1$s,sort:_score)";
       var texto = $('.buscador_q').val();
       if (texto){
         var final_url = sprintf(url, texto);
         window.location = final_url;
+        return false;
       }
+      return false;
     });
   });
   </script>
