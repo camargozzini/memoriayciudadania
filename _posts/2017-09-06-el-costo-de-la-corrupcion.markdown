@@ -63,7 +63,7 @@ estimaciones de Quiroz, entre 1990 y 1999, el perjuicio generado por
 la corrupción equivalía, en promedio, al 40%, aproximadamente, del
 gasto público en ese mismo período. ”
 
-<div class="infogram-embed" data-id="632c13bf-85e7-4e83-85bc-da9e5ed42856" data-type="interactive" data-title="COSTO DE LA CORRUPCIÓN 1900 - 1999"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script"),d=o[0],r=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=r+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var a=e.createElement("script");a.async=1,a.id=s,a.src=i,d.parentNode.insertBefore(a,d)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
+<!-- <div class="infogram-embed" data-id="632c13bf-85e7-4e83-85bc-da9e5ed42856" data-type="interactive" data-title="COSTO DE LA CORRUPCIÓN 1900 - 1999"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script"),d=o[0],r=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=r+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var a=e.createElement("script");a.async=1,a.id=s,a.src=i,d.parentNode.insertBefore(a,d)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script> -->
  
 ## CORRUPCIÓN VS PRESUPUESTO
 
@@ -100,7 +100,7 @@ corrupción es un monto superior a lo destinado a los sectores Salud
 (S/ 16,373), Agua y Saneamiento (S/ 6,871 millones) u Orden Público
 y Seguridad (S/ 9,722); como se muestra en este gráfico.
 
-<div class="infogram-embed" data-id="4c74eb72-1b3b-4ba7-9193-2718cccf6b7e" data-type="interactive" data-title="Copy: Welcome: Your first project"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script"),d=o[0],r=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=r+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var a=e.createElement("script");a.async=1,a.id=s,a.src=i,d.parentNode.insertBefore(a,d)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
+<!-- <div class="infogram-embed" data-id="4c74eb72-1b3b-4ba7-9193-2718cccf6b7e" data-type="interactive" data-title="Copy: Welcome: Your first project"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script"),d=o[0],r=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=r+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var a=e.createElement("script");a.async=1,a.id=s,a.src=i,d.parentNode.insertBefore(a,d)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script> -->
 
 ## RECONSTRUCCIÓN CON CAMBIOS
 
