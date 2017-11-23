@@ -63,7 +63,7 @@ gasto público en ese mismo período. ”
 
 <div class="infogram-embed" data-id="632c13bf-85e7-4e83-85bc-da9e5ed42856" data-type="interactive" data-title="COSTO DE LA CORRUPCIÓN 1900 - 1999"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script"),d=o[0],r=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=r+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var a=e.createElement("script");a.async=1,a.id=s,a.src=i,d.parentNode.insertBefore(a,d)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
  
-## CORRUPCIÓN VS PRESUPUESTO
+## Corrupción v/s presupuesto
 
 Continuando este esfuerzo para entender el impacto de la corrupción
 en nuestro país, Japiqay analizó una muestra de siete casos
@@ -100,7 +100,7 @@ y Seguridad (S/ 9,722); como se muestra en este gráfico.
 
 <div class="infogram-embed" data-id="4c74eb72-1b3b-4ba7-9193-2718cccf6b7e" data-type="interactive" data-title="Copy: Welcome: Your first project"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script"),d=o[0],r=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=r+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var a=e.createElement("script");a.async=1,a.id=s,a.src=i,d.parentNode.insertBefore(a,d)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
 
-## RECONSTRUCCIÓN CON CAMBIOS
+## Reconstrucción con cambios
 
 El fenómeno del Niño golpeó fuertemente al país. Según el
 presidente de la República, los desastres provocados junto al impacto
@@ -130,6 +130,8 @@ millones); Áncash (S/ 3,516 millones); Lambayeque (S/ 3,115
 millones); Tumbes (S/ 784 millones) e Ica (S/ 729 millones) podría ser
 cubierto de sobra con los S/ 20,122 millones que perdió el Perú
 durante las últimas 4 décadas en solo 7 casos de gran corrupción.
+
+<div class="infogram-embed" data-id="7b5a4747-11cb-4cc5-b9f3-80b1d915b3b9" data-type="interactive" data-title="Corrupción vs &quot;Reconstrucción con Cambios&quot; (En millones)"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script"),d=o[0],r=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=r+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var a=e.createElement("script");a.async=1,a.id=s,a.src=i,d.parentNode.insertBefore(a,d)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
 
 No es raro escuchar a los gobiernos señalar que “no hay recursos”
 ante las demandas ciudadanas; sin embargo, cuando observamos el
