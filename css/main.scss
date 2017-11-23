@@ -127,6 +127,10 @@ section#search {
   padding: 5vw;
 }
 
+#histories .col-6:last-child {
+  background: $gray-four;
+}
+
 .meta svg {
     margin: 0px 3px -3px 0px;
 }
@@ -155,4 +159,20 @@ blockquote {
 
 #quote {
     padding: 4rem;
+}
+
+// footer
+
+footer {
+  background: $gray-four;
+  padding: 3rem 0;
+}
+
+footer img {
+  max-width: 100%;
+}
+
+footer svg {
+    margin: 0 0px -5px 0;
+    width: 30px;
 }
