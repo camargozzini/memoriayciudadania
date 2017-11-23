@@ -81,6 +81,7 @@ header {
 .hero {
   background-color: $blue;
   padding: 11vw 0;
+  position: relative;
 }
 
 .btn-search {
@@ -100,6 +101,11 @@ header {
   font-weight: bold;
 }
 
+.carousel {
+    position: absolute;
+    bottom: 0rem;
+    left: 9rem;
+}
 
 // Search
 
