@@ -16,6 +16,10 @@ h1,h2,h3,h4 {
 }
 
 h1 {
+    font-size: 48px;
+}
+
+.hero h1 {
   font-size: 70px;
 }
 
@@ -148,7 +152,7 @@ section#search {
   padding: 5vw;
 }
 
-#histories .col-6:last-child {
+.histories .col-6:last-child {
   background: $gray-four;
 }
 
@@ -174,6 +178,18 @@ blockquote {
 
 .link-repo svg {
     margin: 0px 5px -5px 0px;
+}
+
+.post {
+    padding: 3rem 0;
+}
+
+.post .link-repo {
+    margin: 0;
+}
+
+.post .meta {
+    margin: 1rem -15px;
 }
 
 // quote
