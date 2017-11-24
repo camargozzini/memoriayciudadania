@@ -27,3 +27,27 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  
+prose:
+  siteurl: 'http://ciudadanointeligente.org/'
+  media: 'assets'
+  ignore:
+    - index.md
+    - favicon.ico
+    - about.md
+    - .gitignore
+    - .gitattributes
+    - Gemfile.lock
+    - Gemfile
+    - _config.yml
+    - /_layouts
+    - /js
+    - /css
+    - /_sass
+    - CNAME
+    - _prose.yml
+    - README.md
+    - /_includes/head.html
+    - /_includes/header.html
+    - /_includes/hero.html
+    - /_includes/histories.html
