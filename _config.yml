@@ -16,7 +16,7 @@
 title: Memoria y Ciudadanía
 email: contacto@japiqay.org
 description: Archivos de la corrupción
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "http://memoriayciudadania.org/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

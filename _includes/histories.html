@@ -1,4 +1,4 @@
-<section id="histories">
+<section class="histories">
     {% for post in site.posts %}
     <div class="row no-gutters">
       <div class="col-6">
@@ -7,7 +7,7 @@
       <div class="col-6">
         <div class="box">
           <h5>Historias de Corrupción</h5>
-          <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+          <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4></a>
           <div class="meta small">
             <svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
                 <path d="M7 14c-3.86 0-7-3.14-7-7s3.14-7 7-7 7 3.14 7 7-3.14 7-7 7zM7 1.167C3.783 1.167 1.167 3.783 1.167 7S3.783 12.833 7 12.833 12.833 10.217 12.833 7 10.217 1.167 7 1.167zm2.333 8.75c-.149 0-.298-.057-.412-.171L6.588 7.413c-.054-.054-.097-.119-.126-.19-.03-.071-.045-.147-.045-.223V2.917c0-.322.261-.584.583-.584.322 0 .583.262.583.584v3.842l2.163 2.162c.228.228.228.597 0 .825-.114.114-.263.171-.413.171z" fill="#63647A" fill-rule="evenodd"/>
@@ -22,8 +22,8 @@
           </div>
           {{ post.excerpt | truncatewords:38 }}
           <div class="tags">
-              {% for category in post.categories %}
-              #{{category}}
+              {% for tags in post.tags %}
+              #{{tags}}
               {% unless forloop.last %}&nbsp;{% endunless %}
               {% endfor %}
           </div>
@@ -36,7 +36,7 @@
             </a>
           </div>
           <div class="post-buttons">
-            <a href="{{ post.url }}" class="btn btn-primary">Ver historia</a>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Ver historia</a>
           </div>
         </div>
       </div>
