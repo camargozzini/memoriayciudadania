@@ -19,6 +19,12 @@ h1 {
     font-size: 48px;
 }
 
+.hero {
+  background-image: url(../img/hero01.png);
+  background-blend-mode: soft-light;
+  background-size: cover;
+}
+
 .hero h1 {
   font-size: 70px;
 }
