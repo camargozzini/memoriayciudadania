@@ -9,6 +9,9 @@ body {
   color: $gray-one;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+body.home {
   background-image: url(../img/hero01.png);
   background-size: contain;
   background-repeat: no-repeat;
