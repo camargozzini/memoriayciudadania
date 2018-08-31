@@ -22,6 +22,9 @@
       var url = "https://japiqay.uwazi.io/es/?q=(order:asc,searchTerm:%1$s,sort:_score)";
       var texto = $('.buscador_q').val();
       if (texto){
+        if(texto.indexOf(' ') >= 0){
+          texto = "'"+texto+"'";
+        }
         var final_url = sprintf(url, texto);
         window.location = final_url;
         return false;
